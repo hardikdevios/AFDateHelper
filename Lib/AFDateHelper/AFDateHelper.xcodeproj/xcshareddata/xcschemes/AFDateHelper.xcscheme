@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "565E811F1CD7FB030012965C"
-               BuildableName = "AFDateHelperlib.framework"
-               BlueprintName = "AFDateHelperlib"
+               BlueprintIdentifier = "565E81371CD7FD760012965C"
+               BuildableName = "AFDateHelper.framework"
+               BlueprintName = "AFDateHelper"
                ReferencedContainer = "container:AFDateHelper.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "565E811F1CD7FB030012965C"
-            BuildableName = "AFDateHelperlib.framework"
-            BlueprintName = "AFDateHelperlib"
+            BlueprintIdentifier = "565E81371CD7FD760012965C"
+            BuildableName = "AFDateHelper.framework"
+            BlueprintName = "AFDateHelper"
             ReferencedContainer = "container:AFDateHelper.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "565E811F1CD7FB030012965C"
-            BuildableName = "AFDateHelperlib.framework"
-            BlueprintName = "AFDateHelperlib"
+            BlueprintIdentifier = "565E81371CD7FD760012965C"
+            BuildableName = "AFDateHelper.framework"
+            BlueprintName = "AFDateHelper"
             ReferencedContainer = "container:AFDateHelper.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
