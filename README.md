@@ -3,6 +3,8 @@
 [![Version](https://img.shields.io/cocoapods/v/AFDateHelper.svg?style=flat)](http://cocoapods.org/pods/AFDateHelper)
 [![License](https://img.shields.io/cocoapods/l/AFDateHelper.svg?style=flat)](http://cocoapods.org/pods/AFDateHelper)
 [![Platform](https://img.shields.io/cocoapods/p/AFDateHelper.svg?style=flat)](http://cocoapods.org/pods/AFDateHelper)
++[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 
 An NSDate Extension for Swift 2.0
 
@@ -153,6 +155,24 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "AFDateHelper"
 ```
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks.
+
+You can install Carthage with [Homebrew](http://brew.sh/) using the following command:
+
+```bash
+$ brew update
+$ brew install carthage
+```
+
+To integrate AFDateHelper into your Xcode project using Carthage, specify it in your `Cartfile`:
+
+```ogdl
+github "AFDateHelper/AFDateHelper"
+```
+
+Run `carthage update` to build the framework and drag the built `AFDateHelper.framework` into your Xcode project.
+
 
 ## Author
 
